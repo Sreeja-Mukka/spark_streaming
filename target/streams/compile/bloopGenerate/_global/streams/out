@@ -1,0 +1,4 @@
+[debug] [spark-streaming] Classpath dependencies List()
+[debug] [spark-streaming] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'spark-streaming' to '/private/var/folders/75/7280jgqx50vclm6n4_hc9lz40000gp/T/spark-streaming/.bloop/spark-streaming.json'
+[success] Generated .bloop/spark-streaming.json

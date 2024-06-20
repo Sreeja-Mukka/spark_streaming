@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/private/var/folders/75/7280jgqx50vclm6n4_hc9lz40000gp/T/spark-streaming/src/main/scala/SerialiseKafkaTopic.scala:33:14: value parseFrom is not a member of object SerialiseKafkaTopic.Metric[0m
+[0m[[0m[31merror[0m] [0m[0m      Metric.parseFrom(bytes)[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
