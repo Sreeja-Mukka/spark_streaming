@@ -5,7 +5,7 @@ import java.util.Base64
 import metricMessage.MetricOuterClass.Metric
 import org.apache.spark.sql.Encoders
 
-object SerialiseKafkaTopic extends App {
+object DeSerialiseKafkaTopic extends App {
 
 val spark = SparkSession.builder()
     .appName("Serialise-Kafka-Topic")

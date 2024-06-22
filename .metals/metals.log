@@ -558,3 +558,18 @@ Jun 20, 2024 10:41:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancella
 WARNING: Unmatched cancel notification for request id 5903
 Jun 20, 2024 10:43:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 5929
+2024.06.20 11:04:46 ERROR SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2024.06.20 11:04:46 ERROR SLF4J: Defaulting to no-operation (NOP) logger implementation
+2024.06.20 11:04:46 ERROR SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+2024.06.20 11:04:54 INFO  
+2024.06.20 11:04:54 INFO  Template applied in /private/var/folders/75/7280jgqx50vclm6n4_hc9lz40000gp/T/./keyspaces-parquet
+2024.06.20 11:04:54 INFO  
+2024.06.20 11:04:54 INFO  time: ran 'giter8.Giter8' in 8.22s
+Jun 20, 2024 11:05:05 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jun 22, 2024 12:53:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.06.22 12:53:34 INFO  compiling spark-streaming (1 scala source)
+2024.06.22 12:53:36 INFO  time: compiled spark-streaming in 1.46s
+2024.06.22 12:53:39 INFO  compiling spark-streaming (1 scala source)
+2024.06.22 12:53:39 INFO  time: compiled spark-streaming in 0.67s
